@@ -89,9 +89,19 @@ p {
 .add-img img {
     width: 100%;
     height: 100%;
+    border-radius: 20px;
+    box-shadow: 12px 8px 40px gray;
 }
 
 .add-img {
-    width: 300px;
+    width: 350px;
     padding: 8px;
+}
+
+#add-img1 {
+    padding: 50px 0px 0px 50px;
+}
+
+#add-img2 {
+    width: 22%;
 }
