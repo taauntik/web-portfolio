@@ -85,3 +85,13 @@ p {
     border-image-slice: 1;
     background: white;
 }
+
+.add-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.add-img {
+    width: 300px;
+    padding: 8px;
+}
